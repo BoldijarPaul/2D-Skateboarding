@@ -1,0 +1,110 @@
+
+Tilez.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tile0
+  rotate: false
+  xy: 1, 96
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile1
+  rotate: false
+  xy: 1, 1
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile10
+  rotate: false
+  xy: 96, 96
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile11
+  rotate: false
+  xy: 96, 1
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile12
+  rotate: false
+  xy: 191, 96
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile13
+  rotate: false
+  xy: 191, 1
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile14
+  rotate: false
+  xy: 286, 96
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile2
+  rotate: false
+  xy: 286, 1
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile3
+  rotate: false
+  xy: 381, 96
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile4
+  rotate: false
+  xy: 381, 1
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile5
+  rotate: false
+  xy: 476, 96
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile6
+  rotate: false
+  xy: 476, 1
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile7
+  rotate: false
+  xy: 571, 96
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile8
+  rotate: false
+  xy: 571, 1
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+tile9
+  rotate: false
+  xy: 666, 96
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
